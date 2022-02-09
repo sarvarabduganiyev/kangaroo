@@ -14,7 +14,7 @@ function Grid70({ onToggle }) {
             <div className="  ">
                 <div className="flex bg__grid__70 flex-col justify-center items-center">
 
-                    <h1 className='grid__70__h1 w-7/12 '>Welcome to the incredible</h1>
+                    <h1 className='grid__70__h1 w-7/12 '>Good Bye World</h1>
                     <div className='text-white mt-4 space-x-12'>
                         <button className='bg-transparent button__style  border-2 border-white rounded-md  px-12 py-4'>Button Text</button>
                         <button className=' bg__button  button__style rounded-md '>Button Text</button>
